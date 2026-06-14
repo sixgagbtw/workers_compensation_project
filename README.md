@@ -13,3 +13,4 @@ git clone https://github.com/sixgagbtw/workers_compensation_project.git
 pip install -r requirements.txt
 3. Запустите приложение:
 streamlit run app.py
+ 
