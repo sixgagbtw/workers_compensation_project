@@ -7,3 +7,4 @@ pages = [
 
 current_page = st.navigation(pages, position="sidebar", expanded=True)
 current_page.run()
+ 
