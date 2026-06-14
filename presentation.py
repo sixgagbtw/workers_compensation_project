@@ -132,3 +132,4 @@ def presentation_page():
 
 # Для тестирования страницы напрямую 
 presentation_page()
+ 
