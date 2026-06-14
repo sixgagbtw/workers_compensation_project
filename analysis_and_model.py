@@ -224,3 +224,4 @@ def analysis_and_model_page():
 
 # Для тестирования страницы напрямую
 analysis_and_model_page()
+ 
